@@ -32,6 +32,7 @@
     "mongoose": "^4.7.8",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
+    "nodemon": "*",
     "react": "^15.4.2",
     "react-apollo": "^0.10.0",
     "react-dom": "^15.4.2",
